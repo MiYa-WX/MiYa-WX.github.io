@@ -1,2 +1,2 @@
 # MiYa-WX.github.io
-view my code
+view my [code](https://miya-wx.github.io/)
